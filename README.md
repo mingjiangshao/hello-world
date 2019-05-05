@@ -1,2 +1,5 @@
 # hello-world
-The first project on the github
+Hi Humans!
+
+Hubot here,I like Node.js and Coffeecsript(that's what I'm made of!).
+I've had tacos on the moon and find them far superior to earth tacos.
